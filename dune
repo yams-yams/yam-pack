@@ -1,0 +1,3 @@
+(executable
+ (name yam_pack)
+ (libraries yojson str))
